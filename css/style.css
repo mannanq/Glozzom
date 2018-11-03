@@ -1,5 +1,6 @@
 body {
-    overflow-x: hidden;
+    /* To remove scroll bar in horizontal direction */
+    overflow-x: hidden;    
 }
 
 .navbar .nav-link {
